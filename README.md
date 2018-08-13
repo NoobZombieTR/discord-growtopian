@@ -1,1 +1,1 @@
-# discord-growtopian
+# Growtopian Bot
